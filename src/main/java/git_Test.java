@@ -6,5 +6,6 @@ public class git_Test {
         System.out.println("master");
         System.out.println("push");
         System.out.println("pull");
+        System.out.println("gitee");
     }
 }
